@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Счастливый билетик</title>
-</head>
-<body>
-<script type="text/javascript">
+﻿<script type="text/javascript">
 	alert('Это генератор удачи. Сейчас проверим, попадется ли Вам Счастливый билет...');
 
 	//Функция для получения рандомного числа найдена на learn.javascript - ура!
@@ -41,5 +34,3 @@
 		alert('Ваше счастье скоро найдет Вас... Но не сегодня.');
 	}
 </script>
-</body>
-</html>
